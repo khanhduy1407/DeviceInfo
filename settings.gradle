@@ -1,0 +1,2 @@
+include ':app', ':deviceinfo', ':deviceinfo-base', ':deviceinfo-ads',
+    ':deviceinfo-common'
